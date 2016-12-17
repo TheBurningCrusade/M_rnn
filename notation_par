@@ -1,0 +1,52 @@
+t34_data
+, 't33_data'
+, 't32_data'
+, 't31_data', 
+  't30_data'
+, 't29_data'
+, 't28_data',
+  't27_data'
+, 't26_data'
+, 't25_data'
+, 't24_data'
+, 't23_data'
+, 't22_data'
+, 't21_data'
+, 't20_data'
+, 't19_data'
+, 't18_data'
+, 't17_data'
+, 't16_data'
+, 't15_data',
+  't14_data', 
+  't13_data',
+  't12_data', 
+  't11_data', 
+  't10_data', 
+  't9_data', 
+  't8_data', 
+  't7_data', 
+  't6_data', 
+  't5_data', 
+  't4_data', 
+  't3_data', 
+  't2_data', 't1_data', 't0_data', 
+
+embed_weight
+
+  'l0_i2h_weight'
+, 'l0_i2h_bias'
+  'l0_h2h_weight', 
+  'l0_h2h_bias', 
+  'l0_init_c', 
+  'l0_init_h', 
+
+  'l1_i2h_weight', 
+  'l1_i2h_bias', 
+  'l1_h2h_weight'
+  l1_h2h_bias'
+  'l1_init_c', 
+  'l1_init_h', 
+  'cls_weight', 
+  'cls_bias', 
+  'label']
